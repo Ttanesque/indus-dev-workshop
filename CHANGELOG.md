@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/Ttanesque/indus-dev-workshop/compare/v0.1.5...v1.0.0) (2022-04-08)
+
+
+### Features
+
+* background ([4f707c6](https://github.com/Ttanesque/indus-dev-workshop/commit/4f707c6fb1ee4129fc208b3bbf3f716d41a87377))
+
 ### [0.1.5](https://github.com/Ttanesque/indus-dev-workshop/compare/v0.1.4...v0.1.5) (2022-04-08)
 
 
